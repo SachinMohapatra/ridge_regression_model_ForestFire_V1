@@ -1,0 +1,1 @@
+Hi there!! this is a ridge regression practice project that I have made from the scratch and deployed in AWS. It is trained on a forest fire dataset and it is used to predict the FWI("Fire Weather Index") from the data given to it.
